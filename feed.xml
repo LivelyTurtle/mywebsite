@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TurtlyLive</title>
+    <link href="https://livelyturtle.github.io/mywebsite/feed.xml" rel="self" />
+    <link href="https://livelyturtle.github.io/mywebsite" />
+    <updated>2025-10-24T12:31:41+02:00</updated>
+    <author>
+        <name>LivelyTurtle</name>
+    </author>
+    <id>https://livelyturtle.github.io/mywebsite</id>
+
+    <entry>
+        <title>Quantum Physics</title>
+        <author>
+            <name>LivelyTurtle</name>
+        </author>
+        <link href="https://livelyturtle.github.io/mywebsite/quantum-physics.html"/>
+        <id>https://livelyturtle.github.io/mywebsite/quantum-physics.html</id>
+
+        <updated>2025-10-24T12:25:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Quantum physics is the study of physics on the subatomic level. It is mostly based on studyting particles and forces. A type of particle studied is called "quarks." There are six quarks, being: Up; Down; Charm; Strange; Top; Bottom. These (excluding "Top") are used to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Quantum physics is the study of physics on the subatomic level. It is mostly based on studyting particles and forces. A type of particle studied is called "quarks." There are six quarks, being: Up; Down; Charm; Strange; Top; Bottom. These (excluding "Top") are used to create larger particles, usually baryons and mesons.</p>
+<p>Each quark has a fixed charge. Up, Charm and Top has a +2/3 charge. Down, Strange and Bottom have a -1/3 charge. They may also have a colour charge, which may change. For a larger particle (baryons, mesons etc.) to be stable, it requires a colour charge of white. There are three colour charges: Red; Green; Blue. They also have a measure of kinetic energy called a spin which is either 1/2 or -1/2 </p>
+<p>All quarks (and therfore particles) have an anti-variant. They have the opposite charge of their counterparts, and will destroy itself and its counterpart if they collide, becoming energy. The colour charges become Cyan, Magenta and Yellow as opposed to Red, Green and Blue.</p>
+<p>Baryons get their properties from their three quarks. They get a white colour charge from having 1 of each colour (either Red, Green and Blue or Cyan, Magenta and Yellow). The other charge only determines the charge of the particle. It is calculated by adding all of them up.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
